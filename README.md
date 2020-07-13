@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# fr-public
-=======
 # Re-Do
 
 Re-Do is a facial recognition, redaction and replacement web application that is free to use.
